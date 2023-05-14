@@ -1,0 +1,12 @@
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\bin\Debug\net6.0\http-client-core.deps.json
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\bin\Debug\net6.0\http-client-core.dll
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\bin\Debug\net6.0\http-client-core.pdb
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\obj\Debug\net6.0\http-client-core.csproj.AssemblyReference.cache
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\obj\Debug\net6.0\http-client-core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\obj\Debug\net6.0\http-client-core.AssemblyInfoInputs.cache
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\obj\Debug\net6.0\http-client-core.AssemblyInfo.cs
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\obj\Debug\net6.0\http-client-core.csproj.CoreCompileInputs.cache
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\obj\Debug\net6.0\http-client-core.dll
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\obj\Debug\net6.0\refint\http-client-core.dll
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\obj\Debug\net6.0\http-client-core.pdb
+C:\Users\Edy\Documents\GitHub\https-client\http-client-core\obj\Debug\net6.0\ref\http-client-core.dll
